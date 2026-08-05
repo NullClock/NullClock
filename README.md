@@ -1,7 +1,16 @@
-[![SetSocket](https://github-readme-stats.vercel.app/api/pin/?username=nullclock&repo=setsocket)](https://github.com/NullClock/SetSocket)
-[![Simple-Photop-Selfbot](https://github-readme-stats.vercel.app/api/pin/?username=nullclock&repo=simple-photop-selfbot)](https://github.com/nullclock/simple-photop-selfbot)
-[![Photop-RS](https://github-readme-stats.vercel.app/api/pin/?username=wrapjss&repo=photop-rs)](https://github.com/wrapjss/photop-rs)
-[![KelpOS](https://github-readme-stats.vercel.app/api/pin/?username=nullclock&repo=KelpOS-Legacy)](https://github.com/NullClock/KelpOS)
+# Helio Meira de Souza Leles (NullClock)
+<img src="/images.png" height="65" width="255" style="border-radius:3px" alt="PhilaSD">
 
+
+[![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?logo=Codeberg&logoColor=white)](https://codeberg.org/4helio)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/4helio)
+[![Threads](https://img.shields.io/badge/Threads-black?logo=threads&logoColor=white)](https://threads.net/4helio)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](#)
+[![Oracle Cloud](https://custom-icon-badges.demolab.com/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white)](#)
+[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
 <img src="https://komarev.com/ghpvc/?username=nullclock">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nullclock&count_private=true&theme=dark&layout=compact">
+<br>
+Hey! I'm Helio Meira de Souza Leles, a 14 year old Brazilian software developer looking to build my career while I'm still young. I'm currently transitioning to Codeberg for all my projects and whatnot, but I will continue to publish my projects to GitHub. I will only be publishing my repositories to GitHub 7 days after the Codeberg release.
+
+### Starting Fresh
+Today, August 4th, 2026, I am starting fresh. All my repositories and projects will remain public, but they will no longer be maintained or taken care of except for some occasional tweak when an issue or PR is opened. I'd recommend checking out my [Codeberg](https://codeberg.org/4helio) for my latest projects and repositories.
