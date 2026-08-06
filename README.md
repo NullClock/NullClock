@@ -10,7 +10,7 @@
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
 <img src="https://komarev.com/ghpvc/?username=nullclock">
 <br>
-Hey! I'm Helio Meira de Souza Leles, a 14 year old Brazilian software developer looking to build my career while I'm still young. I'm currently transitioning to Codeberg for all my projects and whatnot, but I will continue to publish my projects to GitHub. I will only be publishing my repositories to GitHub 7 days after the Codeberg release.
+Hey! I'm Helio Meira de Souza Leles, a 14 year old Brazilian software developer looking to build my career while I'm still young. My dream is to work at a big company like Apple, Google, Meta, Netflix, or Microsoft. I'm starting fresh to simplify my portfolio for future job applications, hackathon auditions, etc.
 
 ### Starting Fresh
 Today, August 4th, 2026, I am starting fresh. All my repositories and projects will remain public, but they will no longer be maintained or taken care of except for some occasional tweak when an issue or PR is opened. I'd recommend checking out my [Codeberg](https://codeberg.org/4helio) for my latest projects and repositories.
