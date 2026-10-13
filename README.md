@@ -15,5 +15,8 @@
 
 Hey! I'm Helio Meira de Souza Leles, a 14 year old Brazilian software developer looking to build my career while I'm still young. My dream is to work at a big company like Apple, Google, Meta, Netflix, or Microsoft. I also really like music.
 
+### Social Handles
+I don't like to keep the same username for a long time on platforms like Instagram, TikTok, and Threads, so it's always changing. My current handle on Instagram is @hissinterlude and for TikTok, @unt3thered. If you're just a developer though there's not much value in looking at my socials because I tend to keep the people in my social life separate from my "dev life" lmao.
+
 ### Starting Fresh
 ~~Today, August 4th, 2026, I am starting fresh. All my repositories and projects will remain public, but they will no longer be maintained or taken care of except for some occasional tweak when an issue or PR is opened. I'd recommend checking out my [Codeberg](https://codeberg.org/4helio) for my latest projects and repositories.~~ Nevermind! GitHub is better.
