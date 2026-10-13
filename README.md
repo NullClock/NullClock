@@ -8,8 +8,11 @@
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](#)
 [![Oracle Cloud](https://custom-icon-badges.demolab.com/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white)](#)
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
-<img src="https://komarev.com/ghpvc/?username=nullclock">
-<br>
+
+<img src="https://komarev.com/ghpvc/?username=nullclock"> (there's no way these profile views are accurate)
+
+---
+
 Hey! I'm Helio Meira de Souza Leles, a 14 year old Brazilian software developer looking to build my career while I'm still young. My dream is to work at a big company like Apple, Google, Meta, Netflix, or Microsoft. I also really like music.
 
 ### Starting Fresh
