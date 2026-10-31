@@ -4,7 +4,7 @@
 
 [![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?logo=Codeberg&logoColor=white)](https://codeberg.org/4helio)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/heliosinterlude)
-[![Threads](https://img.shields.io/badge/Threads-black?logo=threads&logoColor=white)](https://threads.net/heliosinterlude)
+[![Threads](https://img.shields.io/badge/Threads-black?logo=threads&logoColor=white)](4helio)
 [![TikTok](https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white)](https://tiktok.com/@unt3thered)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](#)
 [![Oracle Cloud](https://custom-icon-badges.demolab.com/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white)](#)
