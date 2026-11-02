@@ -1,5 +1,5 @@
 # Hélio Meira de Souza Leles (NullClock)
-<img src="https://memblu.us.to/heliosnowplaying.png" height="95" width="320" alt="Now Playing">
+<!-- <img src="https://memblu.us.to/heliosnowplaying.png" height="95" width="320" alt="Now Playing"> -->
 <img src="/images.png" height="65" width="255" style="border-radius:3px" alt="PhilaSD">
 
 
